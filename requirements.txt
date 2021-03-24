@@ -1,0 +1,3 @@
+fastapi
+debugpy
+uvicorn
